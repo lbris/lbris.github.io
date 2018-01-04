@@ -1,0 +1,70 @@
+body{
+		font-family: "Century Gothic";
+}
+html{
+		height: 100%;
+		background: -webkit-linear-gradient(#FA8072, #FFFFFF);
+		margin: 0;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+#header{
+		
+		background-color: #ba2226;
+		height: 75px;
+		margin: auto;
+		width: 60%;
+		font-size: 50px;
+		color: white;
+		text-align: center;
+}
+
+#sidebar{
+		text-align: center;
+		color: white;
+		line-height: 30px;
+		background-color: #ba2226;
+		height: 200px;
+		width: 150px;
+		float: right;
+		margin-top: 125px;
+		margin-right: 30px;
+}
+#content{
+		margin-left: 180px;
+		margin-top: 50px;
+		margin-right: 185px;
+		margin-bottom: 50px;
+		line-height: 35px;
+}
+
+#imagehome{
+		margin-left: 180px;
+		margin-top: 50px;
+		margin-bottom: 70px;
+		display: block;
+}
+
+#footer{
+		background-color: #ba2226;
+		height: 75px;
+		margin: auto;
+		width: 60%;
+		color: white;
+		text-align: center;
+}
+#contact{
+		text-align: center;
+		margin-left: 180px;
+		margin-top: 50px;
+		margin-right: 185px;
+		margin-bottom: 50px;
+		line-height: 35px;
+}
+
+a:hover{
+
+font-weight:bold;
+text-decoration:underline;
+
+}
